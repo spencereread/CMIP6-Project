@@ -1,1 +1,2 @@
-The notebooks in this repository explain and describe how to download and analyse CMIP6 data. Run the Download_Datasets_to_nc notebook first. This will download the .nc files to the 'datasets' folder.
+This repository contains Jupyter Notebooks for downloading and analyzing CMIP6 climate data.
+Start by running the Download_Datasets_to_nc notebook to fetch the required .nc files into the datasets/ directory. Subsequent notebooks perform analysis and visualization of temperature, precipitation, and climate risk indicators.
